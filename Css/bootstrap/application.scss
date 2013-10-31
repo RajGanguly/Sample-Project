@@ -1,0 +1,36 @@
+#moi_user_form{
+    margin-left: 700px; 
+    margin-top: 100px; 
+    border: 2px solid purple;
+    width: 30%;
+    height: 50%;
+}
+
+.index_home{
+     overflow-y:auto;
+     padding: 0px;
+     background-color: #99CCCC;
+}
+
+.moi-index-carousel{
+	border: #000066;
+}
+
+.index-images{
+	margin-left: 380px;
+}
+
+.index-carousel{
+	background-color: #FFFFFF; 
+}
+
+.moi_read_more{
+   display: block;
+   position: relative;
+   background-color: #FFFFFF;  
+   background-image: url('read_more_template.jpg');
+   background-repeat: repeat;
+   background-position: center;
+   min-width: 200px;
+   min-height: 200px;
+}
